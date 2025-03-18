@@ -66,7 +66,7 @@ Built with Django, the backend handles user registration, login, and database ma
 The User model stores user details like email, password, and registration date.
 
 2. **Frontend**:
-The frontend is built with HTML, CSS, and JavaScript.
+The frontend is built with HTML and CSS.
 It features a responsive design with smooth transitions and a dark red/black theme.
 
 3. **Database**:
